@@ -18,4 +18,12 @@ Aplicativo mobile desenvolvido em **React Native** com **Expo** e estilizado com
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/pedrohenriquematias2018-create/Hora-de-Degustar.git](https://github.com/pedrohenriquematias2018-create/Hora-de-Degustar.git)
+   git clone https://github.com/pedrohenriquematias2018-create/Hora-de-Degustar.git
+   
+2. Instale as dependências:
+
+npm install
+
+3. Inicie o servidor do Expo:
+
+npx expo start
