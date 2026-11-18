@@ -1,0 +1,3 @@
+pra criar a barra de pesquisa e filtro
+igualar minusculas e maiusculas e ignorar acentos(função normalizar)
+constar busca, categoria
